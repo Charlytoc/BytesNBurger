@@ -10,8 +10,8 @@
 }
 
 :root {
-  --background-color: white;
-  --font-color: black;
+  --background-color: black;
+    --font-color: white;
   --font-family-primary: 'Playpen Sans', cursive;
 }
 
@@ -20,6 +20,9 @@
     --background-color: black;
     --font-color: white;
   }
+}
+html {
+  color-scheme: dark;
 }
 
 body {
